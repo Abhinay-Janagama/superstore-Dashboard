@@ -45,5 +45,5 @@ This project helped me gain hands-on experience with:
 
 ## 🔗 Connect with Me
 
-- 📧 Email: abhinayjanagama@gmail.com  
+- 📧 Email: abhinayjanagama07@gmail.com  
 - 💼 [LinkedIn](https://www.linkedin.com/in/abhinay-janagama)
